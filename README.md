@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Szymon!</h1>
-<h3 align="center">A student from Wroclaw currently studying Algorithmic Computer Science (Informatyka Algorytmiczna) on Wroclaw University of Science and Technology and an anime fan🍣⛩️</h3>
+<h3 align="center">A student from Wroclaw currently studying Algorithmic Computer Science and an anime fan🍣⛩️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaivecya&label=Profile%20views&color=0e75b6&style=flat" alt="alaivecya" /> </p>
 
